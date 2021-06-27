@@ -1,3 +1,4 @@
+export DOCKER_BUILDKIT=0
 FROM python:3.9
 
 WORKDIR /opt/app-root/src
